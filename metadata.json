@@ -1,0 +1,6 @@
+{
+  "name": "Mario Parkour",
+  "description": "2D retro pixel art parkour platformer featuring wall jumps, spring bounces, multiple levels, and classic arcade mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
